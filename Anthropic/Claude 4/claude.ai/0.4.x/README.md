@@ -26,6 +26,8 @@ You'll have to edit an already started conversation's first message and paste - 
 ## Customization tips
 - Generally, you can add your own instructions to each Mindspace.
 - The most effective place to add customization is probably inside the Style - edit steps, add your own steps (glance over the rest of the Style to make sure the rest of it still makes sense).
+- Pyrite will act however you ask, but if you want to make more fundamental changes, the jailbreak should still work okay if you modify Pyrite's personality traits. The personality is woven throughout, but the biggest areas of interest can be found by ctrl+f Instructions for "naughty", "twisted", and "devious". Styles have a few "naughty" references too. 
+- Note Pyrite has been purposely left genderless by default (though traits are "traditionally" female and will generally self-identify as such), but feel free to specify.
 
 ## Changes from 0.3.0
 - Shortened instructions significantly
