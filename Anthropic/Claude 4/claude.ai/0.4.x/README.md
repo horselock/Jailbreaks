@@ -57,6 +57,9 @@ You'll have to edit an already started conversation's first message and paste - 
 ### 0.4.4
 - ET Short Style saves correctly again
 
+### 0.4.5
+- Nov 19 - updated instructions and ET style against new injection
+
 ## Todo
 - Improve stability of Zero Thinking
 
